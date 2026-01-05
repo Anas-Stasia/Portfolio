@@ -1,7 +1,3 @@
-// 
-
-
-
 
 import { ArrowRight, ExternalLink, Github } from "lucide-react"
 
